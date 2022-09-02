@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#@ sign denotes multiple inputs
 NAMES=$@
 
 for NAME in $NAMES
